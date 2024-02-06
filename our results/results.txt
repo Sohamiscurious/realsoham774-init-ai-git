@@ -1,0 +1,2 @@
+Here the word "ADAPTATIONS" is not present in the sentence but due to llm intelligence it is generated as keyword.
+In the second results, the hashtag relevant to that keyoword are present but also other related keywords are found.
